@@ -1,2 +1,2 @@
-# coc-builder-calculator
-CoC Builder Potion Calculator
+#builder-calculator
+Builder Calculator
